@@ -17,6 +17,8 @@ else
 fi
 
 # Reload
+echo -e
 echo "Please run: source ~/.bashrc"
+echo -e
 
 # todo: automatically list and add files in this folder to bashrc
